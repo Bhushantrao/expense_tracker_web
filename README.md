@@ -66,7 +66,7 @@ Expense-Tracker-System/
 
 ### Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/Expense-Tracker-System.git
+git clone https://github.com/Bhushantrao/Expense-Tracker-System.git
 
 ### Navigate to the project
 
@@ -126,7 +126,7 @@ Open the frontend files in a browser or use a Live Server extension in VS Code.
 
 **Bhushan T Rao**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Bhushantrao
 
 ---
 
