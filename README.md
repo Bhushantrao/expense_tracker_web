@@ -5,7 +5,7 @@ A full-stack **Expense Tracker System** built using **Java, Spring Boot, MySQL, 
 
 ---
 
-## Features
+## Features 
 
 ### User Features
 
